@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "aron",
+        "age": "25",
+        "email": "aron@",
+        "ph_no": "2000",
+        "password": "200",
+        "order history": {}
+    },
+    {
+        "id": 2,
+        "name": "noemi",
+        "age": "23",
+        "email": "noemi@",
+        "ph_no": "1000",
+        "password": "100",
+        "order history": {}
+    },
+    {
+        "id": 3,
+        "name": "malvika",
+        "age": "22",
+        "email": "malvika@",
+        "ph_no": "3000",
+        "password": "300",
+        "order history": {}
+    },
+    {
+        "id": 4,
+        "name": "Ram",
+        "age": "21",
+        "email": "ram@",
+        "ph_no": "20938",
+        "password": "rrr",
+        "order history": {}
+    }
+]

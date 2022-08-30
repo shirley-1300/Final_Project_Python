@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "fried rice",
+        "no of orders": 25,
+        "price": 60,
+        "discount": 5
+    }
+]
